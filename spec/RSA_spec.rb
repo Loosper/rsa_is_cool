@@ -1,4 +1,4 @@
-require "rsa"
+require "RSA"
 
 # God save the queen:
 # https://www.cs.drexel.edu/~introcs/Fa11/notes/10.1_Cryptography/RSA_Express_EncryptDecrypt.html
